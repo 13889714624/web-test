@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "this is my sencond test.",
+  "main": "index.html",
+  "scripts": {
+ "start":"npm run lite" ,  "test": "echo \"Error: no test specified\" && exit 1"
+."lite":"lite-server"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13889714624/web-test.git"
+  },
+  "author": "AvinGao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13889714624/web-test/issues"
+  },
+  "homepage": "https://github.com/13889714624/web-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
